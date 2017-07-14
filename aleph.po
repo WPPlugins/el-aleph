@@ -1,0 +1,373 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Aleph 0.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-04-10 20:19-0300\n"
+"PO-Revision-Date: 2009-04-10 20:21-0300\n"
+"Last-Translator: Eduardo Graells <egraells@dcc.uchile.cl>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /home/egraells/workspace/El-Aleph\n"
+
+#: /home/egraells/workspace/El-Aleph/base-classes/UserQuery.php:109
+#: /home/egraells/workspace/El-Aleph/base-classes/UserQuery.php:110
+#: /home/egraells/workspace/El-Aleph/base-classes/UserQuery.php:111
+#: /home/egraells/workspace/El-Aleph/base-classes/UserQuery.php:113
+#: /home/egraells/workspace/El-Aleph/base-classes/UserQuery.php:114
+#: /home/egraells/workspace/El-Aleph/base-classes/UserQuery.php:119
+#: /home/egraells/workspace/El-Aleph/base-classes/UserQuery.php:120
+#: /home/egraells/workspace/El-Aleph/template/template-tags.php:38
+#: /home/egraells/workspace/El-Aleph/template/template-tags.php:40
+#: /home/egraells/workspace/El-Aleph/template/aleph-user-tags.php:260
+msgid "people"
+msgstr "gente"
+
+#: /home/egraells/workspace/El-Aleph/base-classes/UserQuery.php:113
+#: /home/egraells/workspace/El-Aleph/base-classes/UserQuery.php:114
+#: /home/egraells/workspace/El-Aleph/base-classes/UserQuery.php:119
+#: /home/egraells/workspace/El-Aleph/base-classes/UserQuery.php:120
+#: /home/egraells/workspace/El-Aleph/template/template-tags.php:38
+#: /home/egraells/workspace/El-Aleph/template/template-tags.php:40
+msgid "searching"
+msgstr "busqueda"
+
+#: /home/egraells/workspace/El-Aleph/base-classes/UserQuery.php:385
+msgid "Registered Users"
+msgstr "Usuarios Registrados"
+
+#: /home/egraells/workspace/El-Aleph/base-classes/UserQuery.php:386
+msgid "Contributors"
+msgstr "Colaboradores"
+
+#: /home/egraells/workspace/El-Aleph/base-classes/UserQuery.php:401
+#: /home/egraells/workspace/El-Aleph/base-classes/UserQuery.php:411
+msgid "Please check your Aleph installation (missing templates)."
+msgstr "Por favor revisa tu instalación de Aleph (faltan templates)."
+
+#: /home/egraells/workspace/El-Aleph/template/aleph-link-tags.php:48
+msgid "Our Users"
+msgstr "Nuestros Usuarios"
+
+#: /home/egraells/workspace/El-Aleph/template/template-tags.php:109
+#, php-format
+msgid "<span>%s</span> user found."
+msgstr "<span>%s</span> usuario encontrado."
+
+#: /home/egraells/workspace/El-Aleph/template/template-tags.php:111
+#, php-format
+msgid "<span>%s</span> users found."
+msgstr "<span>%s</span> usuarios encontrados."
+
+#: /home/egraells/workspace/El-Aleph/template/template-tags.php:113
+msgid "No users found."
+msgstr "No se han encontrado usuarios."
+
+#: /home/egraells/workspace/El-Aleph/template/template-tags.php:132
+#: /home/egraells/workspace/El-Aleph/template/template-tags.php:146
+#: /home/egraells/workspace/El-Aleph/template/template-tags.php:230
+msgid "About"
+msgstr "Sobre"
+
+#: /home/egraells/workspace/El-Aleph/template/template-tags.php:136
+msgid "No users found"
+msgstr "No se han encontrado usuarios"
+
+#: /home/egraells/workspace/El-Aleph/template/template-tags.php:148
+msgid "User not found"
+msgstr "El usuario indicado no existe"
+
+#: /home/egraells/workspace/El-Aleph/template/template-tags.php:209
+msgid "Perhaps someday you will find someone on this list ... just be patient (or join the fun!)."
+msgstr "Quizás algún día veas a alguien en esta lista... sólo debes ser paciente, o puedes unirte y ser parte de la diversión :)"
+
+#: /home/egraells/workspace/El-Aleph/template/template-tags.php:232
+msgid "Personal Information"
+msgstr "Datos Personales"
+
+#: /home/egraells/workspace/El-Aleph/template/template-tags.php:240
+#, fuzzy
+msgid "Name"
+msgstr "Nombre"
+
+#: /home/egraells/workspace/El-Aleph/template/template-tags.php:245
+msgid "Location"
+msgstr "Ubicación"
+
+#: /home/egraells/workspace/El-Aleph/template/template-tags.php:249
+msgid "Registration Date"
+msgstr "Fecha de Registro"
+
+#: /home/egraells/workspace/El-Aleph/template/template-tags.php:253
+msgid "URL"
+msgstr "Sitio Web"
+
+#: /home/egraells/workspace/El-Aleph/template/template-tags.php:260
+msgid "User Bio"
+msgstr "Descripción"
+
+#: /home/egraells/workspace/El-Aleph/template/template-tags.php:276
+msgid "The user does not exists."
+msgstr "El usuario indicado no existe."
+
+#, fuzzy
+#~ msgid "Add Favorite"
+#~ msgstr "Hacer Favorito"
+
+#, fuzzy
+#~ msgid "Remove Favorite"
+#~ msgstr "Quitar de Favoritos"
+
+#, fuzzy
+#~ msgid "You cannot add this publication as your favorite."
+#~ msgstr "No puedes agregar esta publicación como favorita."
+#~ msgid "Mark as Contact"
+#~ msgstr "Agregar como amigo"
+#~ msgid "Remove Contact"
+#~ msgstr "Quitar de mis Contactos"
+#~ msgid "You cannot add this user as your contact."
+#~ msgstr "No puedes marcar este usuario como contacto."
+#~ msgid "El Aleph -- Options"
+#~ msgstr "El Aleph -- Opciones"
+#~ msgid "El Aleph"
+#~ msgstr "El Aleph"
+
+#, fuzzy
+#~ msgid "My Favorite Posts"
+#~ msgstr "Mis Favoritos"
+
+#, fuzzy
+#~ msgid "Favorites"
+#~ msgstr "Favoritos"
+#~ msgid "My Contacts"
+#~ msgstr "Mis Contactos"
+#~ msgid "My Sets"
+#~ msgstr "Álbumes"
+#~ msgid "Sets"
+#~ msgstr "Álbumes"
+#~ msgid "All Contacts"
+#~ msgstr "Todos los Contactos"
+#~ msgid "None at this time. Don't be shy :)"
+#~ msgstr "Este usuario no tiene amigos asociados. "
+#~ msgid "contacts"
+#~ msgstr "contactos"
+#~ msgid "author"
+#~ msgstr "publicaciones"
+#~ msgid "sets"
+#~ msgstr "albumes"
+#~ msgid "favorites"
+#~ msgstr "favoritos"
+#~ msgid "interests"
+#~ msgstr "intereses"
+#~ msgid "None at this time."
+#~ msgstr "Ninguno por el momento."
+
+#, fuzzy
+#~ msgid "&laquo; Previous Users"
+#~ msgstr "&laquo; Anteriores"
+
+#, fuzzy
+#~ msgid "Next Users &raquo;"
+#~ msgstr "Siguientes &raquo;"
+#~ msgid "Sorry"
+#~ msgstr "Lo sentimos"
+#~ msgid "We couldn't find anyone under that criteria."
+#~ msgstr "No encontramos ningún usuario bajo ese criterio."
+#~ msgid "Interests"
+#~ msgstr "Intereses"
+#~ msgid "You tried to see the profile of a non existent user."
+#~ msgstr "Estás intentando ver el perfil de un usuario que no existe."
+
+#, fuzzy
+#~ msgid "Author Links"
+#~ msgstr "Autor"
+#~ msgid "There isn't a template file for a profile."
+#~ msgstr "No existe un template para un perfil."
+#~ msgid "There isn't a template file for a user list."
+#~ msgstr "No existe un template para una lista de usuarios."
+#~ msgid "Posts"
+#~ msgstr "Publicaciones"
+#~ msgid "Profile"
+#~ msgstr "Perfil"
+#~ msgid "Your Sets"
+#~ msgstr "Tus Álbumes"
+#~ msgid "Max Sets by User"
+#~ msgstr "Sets máximos por usuario"
+#~ msgid "posts"
+#~ msgstr "publicaciones"
+
+#, fuzzy
+#~ msgid "People interested in %s"
+#~ msgstr "Gente interesada en"
+#~ msgid "User Contacts"
+#~ msgstr "Amigos"
+
+#, fuzzy
+#~ msgid "Contacts of %s"
+#~ msgstr "Amigos"
+#~ msgid "None :("
+#~ msgstr "Ninguno :("
+
+#, fuzzy
+#~ msgid "User Favorites"
+#~ msgstr "Favoritos"
+#~ msgid "All Favorites"
+#~ msgstr "Todos los Favoritos"
+#~ msgid "has been uninstalled"
+#~ msgstr "ha sido desinstalado."
+#~ msgid "You provided a taxonomy name that does not exists."
+#~ msgstr "La taxonomía que requieres no existe."
+#~ msgid "El Aleph's options have been updated."
+#~ msgstr "Las opciones de Aleph se han actualizado."
+
+#, fuzzy
+#~ msgid "El Aleph's Options"
+#~ msgstr "El Aleph -- Opciones"
+
+#, fuzzy
+#~ msgid "General Options"
+#~ msgstr "Opciones"
+
+#, fuzzy
+#~ msgid "Update Options"
+#~ msgstr "Favoritos"
+#~ msgid "Taxonomies"
+#~ msgstr "Taxonomías"
+#~ msgid "Check the taxonomies that you want to activate on this site."
+#~ msgstr "Marca las taxonomías que quieres activar en tu sitio."
+#~ msgid "Uninstall"
+#~ msgstr "Desinstalar"
+
+#, fuzzy
+#~ msgid ""
+#~ "To uninstall \"El Aleph\" press the next button. It will delete all "
+#~ "taxonomies and associations in Aleph's taxonomies. Then you can "
+#~ "deactivate the plugin safely."
+#~ msgstr ""
+#~ "Para desinstalar 'El Aleph' presiona el siguiente botón. Se borrarán "
+#~ "todas las taxonomías y asociaciones de El Aleph. Después puedes "
+#~ "desactivar el plugin de forma segura."
+#~ msgid "Uninstall El Aleph"
+#~ msgstr "Desinstalar El Aleph"
+#~ msgid "ID"
+#~ msgstr "ID"
+#~ msgid "Nick"
+#~ msgstr "Alias"
+
+#, fuzzy
+#~ msgid "Real Name"
+#~ msgstr "Nombre"
+
+#, fuzzy
+#~ msgid "&laquo; Previous Authors"
+#~ msgstr "&laquo; Anteriores"
+
+#, fuzzy
+#~ msgid "Next Authors &raquo;"
+#~ msgstr "Siguientes &raquo;"
+#~ msgid "You don't have any contacts. Don't be shy ;)"
+#~ msgstr "No tienes contactos. No seas tímido :)"
+
+#, fuzzy
+#~ msgid "Edit Set"
+#~ msgstr "Editar"
+#~ msgid "Create Set"
+#~ msgstr "Crear Álbum"
+
+#, fuzzy
+#~ msgid "Set Name"
+#~ msgstr "Nombre"
+#~ msgid ""
+#~ "The name is used to identify the set almost everywhere, for example under "
+#~ "the post or in the sections widget."
+#~ msgstr ""
+#~ "El nombre es lo que se imprime en pantalla sobre el álbum, por ejemplo, "
+#~ "en el widget de Secciones."
+
+#, fuzzy
+#~ msgid "Description"
+#~ msgstr "Descripción"
+#~ msgid "<strong>Note:</strong><br />You can have a maximum of"
+#~ msgstr "<strong>Nota:</strong><br/>Puedes tener un máximo de"
+#~ msgid "Set added."
+#~ msgstr "Álbum creado."
+#~ msgid "Set(s) deleted."
+#~ msgstr "Álbum(es) borrado(s)"
+#~ msgid "Set updated."
+#~ msgstr "Álbum actualizado."
+#~ msgid "Set not added."
+#~ msgstr "Álbum no creado."
+#~ msgid "Set not updated."
+#~ msgstr "Álbum no actualizado."
+#~ msgid "Manage Sets (<a href=\"%s\">add new</a>)"
+#~ msgstr "Administrar Álbumes (<a href=\"%s\">add new</a>)"
+#~ msgid "Search Sets"
+#~ msgstr "Buscar Álbumes"
+#~ msgid "Delete"
+#~ msgstr "Eliminar"
+
+#, fuzzy
+#~ msgid "Editar %s"
+#~ msgstr "Editar"
+#~ msgid ""
+#~ "<strong>Note:</strong><br />Deleting a set does not delete the posts in "
+#~ "that set."
+#~ msgstr ""
+#~ "<strong>Nota:</strong><br/>Eliminar un álbum no elimina las publicaciones "
+#~ "contenidas en ese álbum."
+
+#, fuzzy
+#~ msgid "You don't have any sets."
+#~ msgstr "No tienes contactos. No seas tímido :)"
+#~ msgid "You can't create sets."
+#~ msgstr "No puedes crear álbumes."
+#~ msgid "You are not allowed to delete sets."
+#~ msgstr "No puedes eliminar álbumes."
+#~ msgid "Some problem happened. Please try again later."
+#~ msgstr "Ocurrió un problema. Por favor prueba más tarde."
+#~ msgid "Can&#8217;t delete the SET number <strong>%d</strong>"
+#~ msgstr "No se pudo eliminar el ÁLBUM número <strong>%d</strong>"
+#~ msgid "You're not the set owner."
+#~ msgstr "No eres el dueño de ese álbum."
+#~ msgid "My Favourites"
+#~ msgstr "Mis Favoritos"
+
+#, fuzzy
+#~ msgid "Favorites Options"
+#~ msgstr "Favoritos"
+#~ msgid ""
+#~ "El Aleph couldn't be activated because you don't have at least one "
+#~ "template file named <code>users.php</code>."
+#~ msgstr ""
+#~ "El Aleph no se pudo activar porque no tenías al menos el template llamado "
+#~ "<code>users.php</php>"
+#~ msgid "Favourites"
+#~ msgstr "Favoritos"
+#~ msgid "All Users"
+#~ msgstr "Ver Todos"
+#~ msgid ""
+#~ "Enter a comma separated list of things that you're interested in. It can "
+#~ "be writers, movies, bands, places, anything you like :)"
+#~ msgstr ""
+#~ "Ingresa una lista separada por comas de cosas en las cuales estés "
+#~ "interesado. Pueden ser escritores, películas, bandas, lugares, cualquier "
+#~ "cosa vale. <small>(Un ejemplo puede ser, sin las comillas, 'Jorge Luis "
+#~ "Borges, El Aleph')</small>:"
+#~ msgid "When"
+#~ msgstr "Cuando"
+#~ msgid "Title"
+#~ msgstr "Título"
+#~ msgid "Author"
+#~ msgstr "Autor"
+#~ msgid "&laquo; Previous Entries"
+#~ msgstr "&laquo; Anteriores"
+#~ msgid "Next Entries &raquo;"
+#~ msgstr "Siguientes &raquo;"
+#~ msgid ""
+#~ "You don't have any favorite publications. Perhaps you could add some :)"
+#~ msgstr ""
+#~ "No tienes publicaciones favoritas. Quizás podrías agregar algunas :)"
+
